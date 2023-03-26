@@ -1,0 +1,19 @@
+#dima-nose-title {
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+#dima {
+    height: 90vh;
+    width: 60vw;
+    left: 50%;
+}
+#ball {
+    height: 35vh;
+    width: auto;
+}
+#dima-div {
+    display: flex;
+    justify-content: center;
+}
